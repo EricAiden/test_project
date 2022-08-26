@@ -34,7 +34,7 @@
                     <td>Giới tính:</td>
                     <td>
                         <select name="gioitinh">
-                            <option value=1>Nam</option>
+                            <option value=1>Nam nam</option>
                             <option value=1>Nu</option>
                             <option value=1>Khac</option>
                         </select>
